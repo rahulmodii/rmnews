@@ -1,0 +1,20 @@
+{
+    "name": "rm/news",
+    "description": "this is basic crud for news",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rmodi234",
+            "email": "rahul.modi@neologicx.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RM\\News\\": "src/"
+        }
+
+    }
+}
