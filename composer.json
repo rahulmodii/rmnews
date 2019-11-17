@@ -16,5 +16,12 @@
             "RM\\News\\": "src/"
         }
 
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RM\\News\\NewsServiceProvider"
+            ]
+        }
     }
 }
